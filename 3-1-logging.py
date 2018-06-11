@@ -16,6 +16,11 @@ def main():
     mylib.do_something()
     logging.info('Finished')
 
+#    When you execute a Python script,
+#    it is treated as the main and its __name__ attribute is set to "__main__".
+#    If you import this script as a module in another script,
+#    the __name__ is set to the name of the script/module.
+
 
 if __name__ == '__main__':
     main()

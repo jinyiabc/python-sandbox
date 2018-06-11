@@ -1,3 +1,13 @@
-DEBUG:root:hi, debug!
+    DEBUG:root:hi, debug!
 INFO:root:hi info
 WARNING:root:hi, warning
+DEBUG:root:This message should go to the log file
+INFO:root:So should this
+WARNING:root:And this, too
+DEBUG:root:This message should go to the log file
+INFO:root:So should this
+WARNING:root:And this, too
+WARNING:root:Look before you leap!
+WARNING:root:Look before you leap!
+WARNING:root:Look before you leap!
+ERROR:root:Look before you leap!
